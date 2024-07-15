@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/GUAY1414/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/dp.jpg" alt="Nyebe" width="200" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Antonio B. Guay III</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  SEATWORK 4 
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=GUAY1414/WD-SW4)
 
 ---
 
@@ -61,9 +61,12 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+It is our final project. It contains 5 pages with our resume and previous projects and some information about us. Using our own design.
 - Whats the purpose
+The purpose of this project is for us to improve in html, css, and javascript.
 - What are key components
 - What technology used and how it is used
+It is used by creating a website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +120,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| About me |I used this tutorial to have a good about me page | https://www.youtube.com/watch?v=gh-PsrUAcmo |
+| Credits |I used this tutorial to have a good credits page | https://www.youtube.com/watch?v=45mnmy2JUl0 |
+| Socials |I used this tutorial to have a good social page | https://www.youtube.com/watch?v=Af9NqzFIEPs&t=68s |
+| Projects |I used this tutorial to have a good project page | https://www.youtube.com/watch?v=6nbvH-KOBis |

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Socials</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+
+    <header class="design-four-animation">
+        <nav class="navigation">
+          <a href="../../index.html" style="--clr:#ff1" class="navigation-content"> <span>Home</span><i></i></a>
+          <a href="../aboutMe/index.html" style="--clr:#ff1867" class="navigation-content"> <span>About me</span><i></i></a>
+          <a href="../credits/index.html" style="--clr:#f441a5" class="navigation-content"> <span>Credits</span><i></i></a>
+        </nav>
+        <img
+          src="./assets/img/logo.jpg"
+          alt="benimaru"
+          class="logo4"
+        />
+      </header>
+
+    <div class="menu">
+        <div class="toggle"><ion-icon name="share-social"></ion-icon></div>
+        <li style="--i:0;--clr:#1877f2;">
+            <a href="https://www.facebook.com/guay1414"><ion-icon name="logo-facebook"></ion-icon></a>
+        </li>
+        <li style="--i:1;--clr:#25d366;">
+            <a href="#"><ion-icon name="logo-whatsapp"></ion-icon></a>
+        </li>
+        <li style="--i:2;--clr:#1da1f2;">
+            <a href="https://x.com/antonioguay2"><ion-icon name="logo-twitter"></ion-icon></a>
+        </li>
+        <li style="--i:3;--clr:#000000;">
+            <a href="https://github.com/GUAY1414/"><ion-icon name="logo-github"></ion-icon></a>
+        </li>
+        <li style="--i:4;--clr:#0a66c2;">
+            <a href="#"><ion-icon name="logo-linkedin"></ion-icon></a>
+        </li>
+        <li style="--i:5;--clr:#c32aa3;">
+            <a href="https://www.instagram.com/guuuaaaayyyy/"><ion-icon name="logo-instagram"></ion-icon></a>
+        </li>
+        <li style="--i:6;--clr:#bd081c;">
+            <a href="#"><ion-icon name="logo-pinterest"></ion-icon></a>
+        </li>
+        <li style="--i:7;--clr:#ff0000;">
+            <a href="https://www.youtube.com/@antonioguay4511"><ion-icon name="logo-youtube"></ion-icon></a>
+        </li>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script>
+        let toggle = document.querySelector('.toggle');
+        let menu = document.querySelector('.menu');
+        toggle.onclick = function(){
+            menu.classList.toggle('active')
+        }
+    </script>
+
+    <footer class="design-three">
+    <div class="footer-content">
+        <p>&copy; 2024 BOSSGU COMPANY. All rights reserved.</p>
+    </div>
+    </footer>
+</body>
+</html>
