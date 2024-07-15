@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  SEATWORK 4 
+  FINAL PROJECT 
 </div>
 
 <br />
