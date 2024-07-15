@@ -72,8 +72,9 @@ It is used by creating a website.
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Different types of design
+- Hover transition
+- Navigations
 
 ### Technology
 <!-- TODO: List of Technology Used -->
