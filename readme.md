@@ -76,6 +76,21 @@ It is used by creating a website.
 - Hover transition
 - Navigations
 
+## Deployment Link
+https://guay1414.github.io/WD-PROJECT/
+## Links for other Projects
+- Seatwork 1
+Submitted in pdf format.
+- Seatwork 2
+https://guay1414.github.io/WD-GUAYWEBSITE0/
+- Seatwork 3
+https://guay1414.github.io/WD-SW3/
+- Seatwork 4
+https://github.com/GUAY1414/WD-GUAYWEBSITE
+
+## Wakatime
+https://wakatime.com/@018ef96e-ef85-4502-b927-26c02b340e41/projects/ywmrfsslkj?start=2024-07-11&end=2024-07-17
+
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
